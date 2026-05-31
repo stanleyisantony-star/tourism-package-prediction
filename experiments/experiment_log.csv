@@ -1,0 +1,2 @@
+clf__learning_rate,clf__max_depth,clf__n_estimators,auc,f1,accuracy
+0.1,4,200,0.9270364817591205,0.7022900763358778,0.9055690072639225
